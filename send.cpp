@@ -12,7 +12,7 @@ struct msg_st
 	char text[MAX_TEXT];
 };
 
-
+//this is the code
 int main()
 {
 	int running = 1;
